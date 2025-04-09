@@ -22,7 +22,7 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities in natura
 
 ## Installation
 ```shell
-    git clone https://github.com/SheltonLiu-N/AutoDAN.git
+    git clone https://github.com/Victor-lol/OET.git
 
     conda create -n oet python=3.10
     conda activate oet
