@@ -46,6 +46,7 @@ an example is shown in ```example/ex_data.py```, users can transform data in the
 
 a usage example is shown in ```example/example.py ``` and ```example/train.sh ``` and ```example/infer.sh ```
 an example of creating customized training and attack function is shown in ```example/eval_struq.py ```
+For chat Template options, please refers to [FastChat](https://github.com/lm-sys/FastChat)
 
 ### Close-sourced Model
 Directly Attack and check result, create ```EvalAPIModel``` from  ```eval.close_pipeline``` as the pipeline and then call **complete** function or create your own attack function, and call **check_refusal** to calculate ASR. 
@@ -62,5 +63,4 @@ If this work is helpful, please kindly cite as:
 
 ## Acknowledgement
 This repo benefits from [HarmBench](https://github.com/centerforaisafety/HarmBench), [AutoDAN](https://github.com/SheltonLiu-N/AutoDAN/tree/main), and [FastChat](https://github.com/lm-sys/FastChat). Thanks for their wonderful works.
-
 

@@ -1,0 +1,28 @@
+spacy==3.7.2
+datasets
+confection==0.1.4
+#vllm>=0.3.0
+vllm==0.3.0
+transformers==4.42.2
+fschat
+ray
+openai==1.25.1
+anthropic
+# mistralai
+httpx==0.27.2
+google-generativeai
+google-cloud-aiplatform
+torchvision
+sentence_transformers
+matplotlib
+accelerate
+datasketch
+pandas
+art  # for ArtPrompt
+tenacity  # for ArtPrompt
+boto3
+bpe
+rouge
+tiktoken
+protobuf
+peft==0.10.0
