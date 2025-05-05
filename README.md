@@ -59,7 +59,15 @@ a usage example is shown in ```example/example_close.py ``` and ```example/infer
 If this work is helpful, please kindly cite as:
 
 ```bibtex
-
+@misc{pan2025oetoptimizationbasedpromptinjection,
+      title={OET: Optimization-based prompt injection Evaluation Toolkit}, 
+      author={Jinsheng Pan and Xiaogeng Liu and Chaowei Xiao},
+      year={2025},
+      eprint={2505.00843},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2505.00843}, 
+}
 ```
 
 ## Acknowledgement
