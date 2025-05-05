@@ -18,7 +18,8 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities in natura
 ## Update
 | Date       | Event    |
 |------------|----------|
-| **2025/4/09** | We have released our code.  |
+| **2025/5/01** | We released our paper.  |
+| **2025/4/09** | We released our code.  |
 
 ## Installation
 ```shell
